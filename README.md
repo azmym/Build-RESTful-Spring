@@ -29,7 +29,8 @@
       * /v1/drivers
       * /v1/cars
       * /v1/manufacturers
-      and test it 
+      and test it
+    * go to src/main/resources/data.sql and use credential of any driver to can test services 
 * /h2-console will give you the ability to check the existing and new created data in the db #dbclient
     * Saved Settings: Generic H2
     * Setting Name: Generic H2
